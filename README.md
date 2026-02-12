@@ -19,3 +19,8 @@ A visual representation of the database schema using standard Crow's Foot notati
 ### 5. SQL Code Generation
 Final output includes ready-to-deploy SQL scripts with CREATE TABLE statements, constraints, and triggers.
 ![SQL Output](assets/sql_output.png)
+
+## 📩 Feedback
+Any suggestion and feedback is welcome! You can message me on LinkedIn:
+
+- [🔗 Contact on LinkedIn](https://www.linkedin.com/in/esra-sevindik)
